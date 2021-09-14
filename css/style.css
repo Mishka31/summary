@@ -28,7 +28,7 @@ body {
     box-shadow: 0 50px 100px 90px rgba(0, 0, 0, 0.637); /* Параметры тени */
   }
   .about-me-container {
-    max-width: 370;
+    max-width: 370px;
     padding-left: 15px;
     padding-right: 15px;
     padding-top: 15px;
@@ -52,14 +52,19 @@ body {
     display: flex;
     margin-top: 60px;
     margin-bottom: 60px;
-    width: 1200px;
+    max-width: 756px;
     box-shadow: 0 50px 100px 90px rgba(0, 0, 0, 0.637); /* Параметры тени */
   }
   .about-me-container {
-    padding-left: 90px;
-    padding-right: 90px;
-    padding-top: 90px;
-    padding-bottom: 110px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 15px;
+    padding-bottom: 60px;
+  }
+  .name {
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 50px;
   }
 }
 .sidebar {
@@ -161,11 +166,7 @@ body {
   line-height: 24px;
   margin-bottom: 23px;
 }
-.name {
-  font-size: 40px;
-  font-weight: 700;
-  line-height: 89px;
-}
+
 .description {
   font-size: 14px;
   font-weight: 400;
