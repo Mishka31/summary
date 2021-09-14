@@ -22,14 +22,16 @@ body {
   }
   .wrapper {
     background: #ffffff;
-    margin-top: 60px;
-    margin-bottom: 60px;
-    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    /* width: 1200px; */
     box-shadow: 0 50px 100px 90px rgba(0, 0, 0, 0.637); /* Параметры тени */
   }
   .about-me-container {
     max-width: 370px;
-    padding-left: 15px;
+    padding-left: 25px;
     padding-right: 15px;
     padding-top: 15px;
     padding-bottom: 60px;
@@ -45,18 +47,24 @@ body {
   .my-photo {
     max-width: 370px;
   }
+  .contacts-Container {
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
 }
+
 @media screen and (min-width: 480px) {
   .wrapper {
     background: #ffffff;
     display: flex;
-    margin-top: 60px;
-    margin-bottom: 60px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     max-width: 756px;
     box-shadow: 0 50px 100px 90px rgba(0, 0, 0, 0.637); /* Параметры тени */
   }
   .about-me-container {
-    padding-left: 10px;
+    padding-left: 25px;
     padding-right: 10px;
     padding-top: 15px;
     padding-bottom: 60px;
@@ -66,21 +74,21 @@ body {
     font-weight: 700;
     line-height: 50px;
   }
-}
-.sidebar {
-  background-color: #484272;
-  max-width: 370px;
-  padding-top: 40px;
-  padding-bottom: 40px;
-}
-.my-photo {
-  max-width: 370px;
-}
+  .sidebar {
+    background-color: #484272;
+    padding-left: 0px;
+    max-width: 270px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
 
-.contacts-Container {
-  margin-top: 60px;
-  margin-left: 40px;
-  margin-right: 40px;
+  .my-photo {
+    max-width: 270px;
+  }
+  .contacts-Container {
+    margin-top: 40px;
+    margin-left: 20px;
+  }
 }
 
 .contacts-title {
