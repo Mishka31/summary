@@ -1,0 +1,211 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: url('https://designe-r.in.ua/wp-content/uploads/_/podborka-besplatnykh-fonov-zvyozdnogo-neba/76588.jpg') 
+    left top
+    no-repeat rgb(55, 63, 69);
+    background-size: cover;
+    padding: 20px;
+    font-family: Montserrat;
+}
+.wrapper {
+    background: #ffffff;
+    display: flex;
+    width: 1200px;
+}
+.sidebar{
+    background-color: #2c2848;
+    width: 370px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.my-photo{
+    width: 370px;
+}
+
+.about-me-container{
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-top: 110px;
+    padding-bottom: 110px;
+}
+
+.contacts-Container{
+
+    margin-top: 60px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.contacts-title{
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 20px;
+}
+.contacts-link{
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+    color:#d8d8d8;
+}
+.contacts-link-type{
+    color: #fff;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-right: 10px;
+}
+
+.techskills{
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 20px;
+    color: #ffffff
+}
+
+.TechSkillsContainer{
+    margin-left:40px;
+    margin-right: 40px;
+    margin-top: 55px;
+}
+
+.techskillsitem{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 15px;
+    color: #ff6b08;
+}
+
+.techskillsitemtext {
+    font-weight: 1000;
+    color: #c5c5c5;
+}
+    
+
+.SoftSkillscontainer{
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 55px;
+}
+
+.SoftSkills{
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 20px;
+    color: #ffffff
+}
+
+.softskillsitem{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 15px;
+    color: #ff6b08;
+}
+
+.softskillsitemtext{
+    font-weight: 1000;
+    color: #c5c5c5;
+}
+
+.profession{
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 23px;
+}
+.name{
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 89px;
+}
+.description{
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 24px;
+    margin-top: 24px;
+}
+.maininfo{
+    margin-bottom: 65px;
+}
+.projects{
+    width: 200px;
+    height: 18px;
+    color: #000000;
+    font-family: Montserrat;
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.projectlink{
+    width: 189px;
+    height: 63px;
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.techname{
+    width: 189px;
+    height: 63px;
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.dots{
+    color: #bebebe;
+}
+
+.projectsitem{
+    font-weight: 700;
+    margin-left: 18px;
+}
+.projectsc{
+    margin-bottom: 55px;
+}
+.positiontype{
+    color: #000000;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 15px;
+    margin-top: 8px;
+}
+
+.yellow{
+    color: #ff6b08;
+}
+.timework{
+    color: #a8a8a8;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.duties{
+    margin-top: 14px;
+}
+.dutiesdescribption{
+    color: #595959;
+font-family: Montserrat;
+font-size: 14px;
+font-weight: 400;
+font-style: normal;
+letter-spacing: normal;
+line-height: 24px;
+margin-bottom: 20px;
+}
