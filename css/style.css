@@ -46,7 +46,10 @@ body {
     padding-bottom: 40px;
   }
   .my-photo {
-    max-width: 370px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 270px;
   }
   .contacts-Container {
     margin-top: 40px;
