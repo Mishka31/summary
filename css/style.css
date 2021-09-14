@@ -26,7 +26,6 @@ body {
     margin-right: auto;
     margin-top: 20px;
     margin-bottom: 20px;
-    /* width: 1200px; */
     box-shadow: 0 50px 100px 90px rgba(0, 0, 0, 0.637); /* Параметры тени */
   }
   .about-me-container {
@@ -89,7 +88,10 @@ body {
   }
 
   .my-photo {
-    max-width: 270px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 170px;
   }
   .contacts-Container {
     margin-top: 40px;
