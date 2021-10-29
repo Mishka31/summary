@@ -7,17 +7,19 @@
 body {
   display: flex;
   justify-content: center;
-  background: url("https://krot.mobi/uploads/posts/2020-10/1603485652_2-p-sinii-fon-dlya-prezentatsii-4.jpg")
-    left top no-repeat rgb(55, 63, 69);
+  /* background: url("https://krot.mobi/uploads/posts/2020-10/1603485652_2-p-sinii-fon-dlya-prezentatsii-4.jpg")
+      left top no-repeat rgb(55, 63, 69); */
   background-size: cover;
+  background-color: rgb(64, 85, 153);
   font-family: Montserrat;
 }
 
 @media screen and (max-width: 479px) {
   body {
-    background: url("https://krot.mobi/uploads/posts/2020-10/1603485652_2-p-sinii-fon-dlya-prezentatsii-4.jpg")
-      left top no-repeat rgb(55, 63, 69);
+    /* background: url("https://krot.mobi/uploads/posts/2020-10/1603485652_2-p-sinii-fon-dlya-prezentatsii-4.jpg")
+      left top no-repeat rgb(55, 63, 69); */
     background-size: cover;
+    background-color: rgb(64, 85, 153);
     font-family: Montserrat;
   }
   .wrapper {
@@ -29,7 +31,7 @@ body {
     box-shadow: 0 50px 100px 90px rgba(0, 0, 0, 0.637); /* Параметры тени */
   }
   .about-me-container {
-    background: linear-gradient(to top, #fffcf2, #d4e0ff);
+    background: #edf2ff;
     max-width: 370px;
     padding-left: 25px;
     padding-right: 15px;
@@ -67,7 +69,7 @@ body {
     box-shadow: 0 50px 100px 90px rgba(0, 0, 0, 0.637); /* Параметры тени */
   }
   .about-me-container {
-    background: linear-gradient(to top, #fffcf2, #d4e0ff);
+    background: #edf2ff;
     max-width: 400px;
     padding-left: 25px;
     padding-right: 10px;
@@ -101,9 +103,10 @@ body {
 }
 @media screen and (min-width: 1068px) {
   body {
-    background: url("https://krot.mobi/uploads/posts/2020-10/1603485652_2-p-sinii-fon-dlya-prezentatsii-4.jpg")
-      left top no-repeat rgb(55, 63, 69);
+    /* background: url("https://krot.mobi/uploads/posts/2020-10/1603485652_2-p-sinii-fon-dlya-prezentatsii-4.jpg")
+      left top no-repeat rgb(55, 63, 69); */
     background-size: cover;
+    background-color: rgb(64, 85, 153);
     font-family: Montserrat;
   }
   .wrapper {
@@ -115,7 +118,7 @@ body {
     box-shadow: 0 50px 100px 90px rgba(0, 0, 0, 0.637); /* Параметры тени */
   }
   .about-me-container {
-    background: linear-gradient(to top, #fffcf2, #d4e0ff);
+    background: #edf2ff;
     max-width: 100%;
     padding-left: 60px;
     padding-right: 60px;
@@ -183,8 +186,8 @@ body {
 }
 
 .techskillsitemtext {
-  font-weight: 1000;
-  color: #c5c5c5;
+  font-weight: 500;
+  color: #ffffff;
 }
 
 .SoftSkillscontainer {
@@ -210,8 +213,8 @@ body {
 }
 
 .softskillsitemtext {
-  font-weight: 1000;
-  color: #c5c5c5;
+  font-weight: 500;
+  color: #ffffff;
 }
 
 .profession {
@@ -234,7 +237,6 @@ body {
   margin-bottom: 40px;
 }
 .projects {
-  width: 200px;
   height: 18px;
   color: #000000;
   font-family: Montserrat;
@@ -283,9 +285,9 @@ body {
   color: #ff6b08;
 }
 .timework {
-  color: #a8a8a8;
+  /* color: #a8a8a8; */
   font-family: Montserrat;
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 400;
 }
 
@@ -293,7 +295,7 @@ body {
   margin-top: 14px;
 }
 .dutiesdescribption {
-  color: #595959;
+  /* color: #595959; */
   font-family: Montserrat;
   font-size: 14px;
   font-weight: 400;
@@ -301,4 +303,7 @@ body {
   letter-spacing: normal;
   line-height: 24px;
   margin-bottom: 20px;
+}
+.cantry {
+  margin-left: 10px;
 }
