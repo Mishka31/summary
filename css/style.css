@@ -132,6 +132,7 @@ body {
     padding-bottom: 40px;
   }
   .my-photo {
+    display: block;
     max-width: 270px;
   }
   .contacts-Container {
