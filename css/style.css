@@ -100,7 +100,7 @@ body {
     margin-left: 20px;
   }
 }
-@media screen and (min-width: 940px) {
+@media screen and (min-width: 1024px) {
   body {
     /* background: url("https://krot.mobi/uploads/posts/2020-10/1603485652_2-p-sinii-fon-dlya-prezentatsii-4.jpg")
       left top no-repeat rgb(55, 63, 69); */
