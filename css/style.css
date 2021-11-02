@@ -234,9 +234,6 @@ body {
   line-height: 24px;
   margin-top: 24px;
 }
-.maininfo {
-  margin-bottom: 40px;
-}
 .projects {
   height: 18px;
   color: #000000;
@@ -244,6 +241,7 @@ body {
   font-size: 22px;
   font-weight: 700;
   margin-bottom: 20px;
+  margin-top: 20px;
 }
 .projectlink {
   width: 189px;
@@ -270,16 +268,13 @@ body {
   font-weight: 700;
   margin-left: 18px;
 }
-.projectsc {
-  margin-bottom: 55px;
-}
 .positiontype {
   color: #000000;
   font-family: Montserrat;
   font-size: 16px;
   font-weight: 700;
   margin-bottom: 15px;
-  margin-top: 8px;
+  margin-top: 18px;
 }
 
 .yellow {
@@ -302,9 +297,17 @@ body {
   font-weight: 400;
   font-style: normal;
   letter-spacing: normal;
-  line-height: 24px;
-  margin-bottom: 20px;
+  margin-top: 10px;
+  /* line-height: 24px; */
+  /* margin-bottom: 20px; */
 }
 .cantry {
   margin-left: 10px;
+}
+.describption{
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
 }
