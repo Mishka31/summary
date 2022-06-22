@@ -19,7 +19,7 @@ body {
     /* background: url("https://krot.mobi/uploads/posts/2020-10/1603485652_2-p-sinii-fon-dlya-prezentatsii-4.jpg")
       left top no-repeat rgb(55, 63, 69); */
     background-size: cover;
-    background-color: rgb(64, 85, 153);
+    background-color: rgb(255, 255, 255);
     font-family: Montserrat;
   }
   .wrapper {
@@ -31,7 +31,7 @@ body {
     box-shadow: 0 50px 100px 90px rgba(0, 0, 0, 0.637); /* Параметры тени */
   }
   .about-me-container {
-    background: #edf2ff;
+    background: #0046f8;
     max-width: 370px;
     padding-left: 25px;
     padding-right: 15px;
