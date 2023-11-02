@@ -164,11 +164,15 @@ body {
   margin-right: 10px;
 }
 
+.techCategory {
+  margin-top: 20px;
+  margin-bottom: 5px;
+  color: #ff6b08;
+}
 .techskills {
   font-size: 22px;
   font-weight: 700;
   line-height: 24px;
-  margin-bottom: 20px;
   color: #ffffff;
 }
 
@@ -291,15 +295,12 @@ body {
   margin-top: 14px;
 }
 .dutiesdescribption {
-  /* color: #595959; */
   font-family: Montserrat;
   font-size: 14px;
   font-weight: 400;
   font-style: normal;
   letter-spacing: normal;
   margin-top: 10px;
-  /* line-height: 24px; */
-  /* margin-bottom: 20px; */
 }
 .cantry {
   margin-left: 10px;
