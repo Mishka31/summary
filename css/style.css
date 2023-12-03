@@ -64,7 +64,7 @@ body {
     background: #ffffff;
     display: flex;
     margin-top: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 5px;
     max-width: 956px;
     box-shadow: 0 50px 100px 90px rgba(0, 0, 0, 0.637); /* Параметры тени */
   }
