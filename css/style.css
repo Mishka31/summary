@@ -31,7 +31,7 @@ body {
     box-shadow: 0 50px 100px 90px rgba(0, 0, 0, 0.637); /* Параметры тени */
   }
   .about-me-container {
-    background: #0046f8;
+    background: #edf2ff;
     max-width: 370px;
     padding-left: 25px;
     padding-right: 15px;
@@ -56,6 +56,9 @@ body {
     margin-top: 40px;
     margin-left: 20px;
     margin-right: 20px;
+  }
+  .projects {
+    height: 47px;
   }
 }
 
@@ -139,6 +142,9 @@ body {
     margin-left: 10%;
     margin-right: 40px;
     margin-top: 55px;
+  }
+  .projects {
+    height: 18px;
   }
 }
 
@@ -239,7 +245,6 @@ body {
   margin-top: 24px;
 }
 .projects {
-  height: 18px;
   color: #000000;
   font-family: Montserrat;
   font-size: 22px;
